@@ -1,0 +1,15 @@
+.card{
+  margin:20px;
+  border: 2px solid black;
+  padding:15px;
+  Width: 300px;
+}
+#btn-wish{
+  color:white;
+  background:rgb(11, 145, 11);
+  height:40px;
+  border-radius:10px;
+  border:none;
+  padding:10px;
+  cursor: pointer;
+}

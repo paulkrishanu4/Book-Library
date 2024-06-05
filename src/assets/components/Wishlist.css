@@ -1,0 +1,22 @@
+.card2{
+  border: 2px solid black;
+  margin:10px;
+  padding: 10px;
+  Width:300px;
+}
+.parent2{
+  display: flex;
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#btn-home{
+  height:40px;
+  width:200px;
+  color:white;
+  background: rgb(139, 139, 201);
+  border-radius:10px;
+  border:none;
+
+}
